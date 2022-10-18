@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipLogic", "BattleshipLogic\BattleshipLogic.csproj", "{BBED0FD0-ABAD-4BE2-B8A4-F2FCBC41F782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipCli", "BattleshipCli\BattleshipCli.csproj", "{AC1B6BB6-1C1A-4AF8-B8FA-D5FFBB20F27C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipAvalonia", "BattleshipAvalonia\BattleshipAvalonia.csproj", "{82E94D13-3A90-48F6-91D8-BB60E9AA06D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBED0FD0-ABAD-4BE2-B8A4-F2FCBC41F782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBED0FD0-ABAD-4BE2-B8A4-F2FCBC41F782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBED0FD0-ABAD-4BE2-B8A4-F2FCBC41F782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBED0FD0-ABAD-4BE2-B8A4-F2FCBC41F782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1B6BB6-1C1A-4AF8-B8FA-D5FFBB20F27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1B6BB6-1C1A-4AF8-B8FA-D5FFBB20F27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1B6BB6-1C1A-4AF8-B8FA-D5FFBB20F27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1B6BB6-1C1A-4AF8-B8FA-D5FFBB20F27C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E94D13-3A90-48F6-91D8-BB60E9AA06D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E94D13-3A90-48F6-91D8-BB60E9AA06D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E94D13-3A90-48F6-91D8-BB60E9AA06D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E94D13-3A90-48F6-91D8-BB60E9AA06D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
